@@ -3,10 +3,10 @@
 .Rapp.history
 
 # ignore data files
-.csv
-.xsl
-.txt
-.xlsx
+*.csv
+*.xsl
+*.txt
+*.xlsx
 
 # Session Data files
 .RData
